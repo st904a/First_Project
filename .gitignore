@@ -1,0 +1,3 @@
+*.log
+logs/*
+!not_delete_log.log
